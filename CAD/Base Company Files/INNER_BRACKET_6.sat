@@ -1,0 +1,600 @@
+400 0 1 0           
+16 Bosch Rexroth AG 14 ACIS 16.0.7 NT 24 Wed Feb 17 13:42:43 2021 
+1 9.9999999999999995e-007 1e-010 
+body $1 $2 $-1 $-1 #
+rgb_color-st-attrib $-1 $3 $-1 $0 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+lump $4 $-1 $5 $0 #
+render-rbase-attrib $-1 $6 $1 $0 $7 $-1 0 1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $8 $-1 $2 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 745 #
+shell $-1 $-1 $-1 $9 $-1 $2 #
+string_attrib-name_attrib-gen-attrib $-1 $10 $3 $0 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 745 #
+rh_material-rh_entity $-1 4 5 plain 5 color -4 0.50980392156862742 0.50980392156862742 0.58823529411764708 5 phong 14 ambient factor -2 1 14 diffuse factor -2 0.75 15 specular factor -2 0.5 8 exponent -2 10 14 specular color -4 1 1 1 4 none 4 none #
+string_attrib-name_attrib-gen-attrib $-1 $11 $4 $2 copy keep_kept ignore 23 ATTRIB_XSTEP_PRODUCT_ID 6 1(190) #
+face $12 $13 $14 $5 $-1 $15 reversed single #
+string_attrib-name_attrib-gen-attrib $-1 $16 $6 $0 copy keep_kept ignore 23 ATTRIB_XSTEP_PRODUCT_ID 6 1(190) #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $8 $2 copy keep_kept ignore 17 ATTRIB_XACIS_NAME 4 2E95 #
+fmesh-eye-attrib $-1 $17 $-1 $9 #
+face $18 $19 $20 $5 $-1 $21 reversed single #
+loop $22 $-1 $23 $9 #
+plane-surface $-1 -9.7500000000008598 4.9999999999980638 -3.5999999999999992 1.7208459999999999e-013 -1 0 6.1230320000000003e-017 1.0536795125072e-029 1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $10 $0 copy keep_kept ignore 17 ATTRIB_XACIS_NAME 24 ZEICHNUNG2|1(190)_1;2E95 #
+rgb_color-st-attrib $-1 $24 $12 $9 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+fmesh-eye-attrib $-1 $25 $-1 $13 #
+face $26 $27 $28 $5 $-1 $29 reversed single #
+loop $30 $-1 $31 $13 #
+plane-surface $-1 -0.60000000000086029 4.9999999999996385 2.25 1.7208459999999999e-013 -1 0 6.1230320000000003e-017 1.0536795125072e-029 1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $14 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+coedge $-1 $32 $33 $34 $35 reversed $14 $-1 #
+render-rbase-attrib $-1 $36 $17 $9 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $37 $18 $13 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+fmesh-eye-attrib $-1 $38 $-1 $19 #
+face $39 $40 $41 $5 $-1 $42 reversed single #
+loop $43 $-1 $44 $19 #
+plane-surface $-1 -4.6000000000008772 5.0999999999989498 -3.5999999999999996 -0.70710678118642589 -0.70710678118666925 4.329637448622229e-017 -6.1230320000000003e-017 -1.0536795125072e-029 -1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $20 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+coedge $-1 $45 $46 $47 $48 forward $20 $-1 #
+coedge $-1 $49 $23 $50 $51 forward $14 $-1 #
+coedge $-1 $23 $49 $52 $53 reversed $14 $-1 #
+coedge $-1 $54 $55 $23 $35 forward $56 $-1 #
+edge $57 $58 $59 $23 $60 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $24 $9 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 175 #
+render-rbase-attrib $-1 $61 $25 $13 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $62 $26 $19 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+fmesh-eye-attrib $-1 $63 $-1 $27 #
+face $64 $65 $66 $5 $-1 $67 forward single #
+loop $68 $-1 $69 $27 #
+plane-surface $-1 -2.7000000000005162 2.999999999999277 -3.6999999999999997 1.7208459999999999e-013 -1 0 6.1230320000000003e-017 1.0536795125072e-029 1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $28 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+coedge $-1 $52 $70 $54 $71 reversed $28 $-1 #
+coedge $-1 $72 $31 $73 $74 reversed $20 $-1 #
+coedge $-1 $31 $72 $75 $76 reversed $20 $-1 #
+coedge $-1 $77 $78 $31 $48 reversed $79 $-1 #
+edge $80 $81 $82 $31 $83 forward #
+coedge $-1 $33 $32 $84 $85 reversed $14 $-1 #
+coedge $-1 $86 $87 $32 $51 reversed $88 $-1 #
+edge $89 $58 $90 $32 $91 forward #
+coedge $-1 $92 $44 $33 $53 forward $28 $-1 #
+edge $93 $59 $94 $33 $95 forward #
+coedge $-1 $96 $34 $44 $71 forward $56 $-1 #
+coedge $-1 $34 $97 $86 $98 forward $56 $-1 #
+loop $99 $-1 $96 $100 #
+ptlist-eye-attrib $-1 $101 $-1 $35 #
+vertex $102 $51 $103 #
+vertex $104 $53 $105 #
+straight-curve $-1 -9.5000000000008598 4.9999999999981073 -3.4999999999999991 5 8.60423e-013 -3.0615160000000001e-016 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $37 $13 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 215 #
+render-rbase-attrib $-1 $106 $38 $19 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $107 $39 $27 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+fmesh-eye-attrib $-1 $108 $-1 $40 #
+face $109 $110 $111 $5 $-1 $112 reversed single #
+loop $113 $-1 $114 $40 #
+cone-surface $-1 -2.5000000000008606 4.9999999999993117 0.5 -1.7208459999999999e-013 1 0 4 6.8833839999999996e-013 -2.4492128000000001e-016 1 I I -0 1 4 reversed I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $41 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+coedge $-1 $115 $116 $70 $117 reversed $41 $-1 #
+coedge $-1 $44 $92 $69 $117 forward $28 $-1 #
+edge $118 $59 $119 $44 $120 forward #
+coedge $-1 $46 $45 $121 $122 reversed $20 $-1 #
+coedge $-1 $123 $124 $45 $74 forward $125 $-1 #
+edge $126 $127 $82 $45 $128 forward #
+coedge $-1 $129 $130 $46 $76 forward $131 $-1 #
+edge $132 $81 $133 $46 $134 forward #
+coedge $-1 $135 $47 $130 $136 forward $79 $-1 #
+coedge $-1 $47 $135 $123 $137 reversed $79 $-1 #
+loop $138 $-1 $77 $139 #
+ptlist-eye-attrib $-1 $140 $-1 $48 #
+vertex $141 $48 $142 #
+vertex $143 $74 $144 #
+straight-curve $-1 1.49999999999914 5 2.5 -2 -3.4416919999999998e-013 1.2246064000000001e-016 F 0 F 1 #
+coedge $-1 $145 $146 $49 $85 forward $147 $-1 #
+edge $148 $94 $90 $49 $149 forward #
+coedge $-1 $150 $50 $55 $98 reversed $88 $-1 #
+coedge $-1 $50 $150 $145 $151 forward $88 $-1 #
+loop $152 $-1 $86 $153 #
+ptlist-eye-attrib $-1 $154 $-1 $51 #
+vertex $155 $51 $156 #
+straight-curve $-1 -9.5000000000008598 4.9999999999981073 -3.4999999999999991 1.2246064000000001e-016 2.1073590250144e-029 2 F 0 F 1 #
+coedge $-1 $70 $52 $146 $157 forward $28 $-1 #
+ptlist-eye-attrib $-1 $158 $-1 $53 #
+vertex $159 $53 $160 #
+straight-curve $-1 -4.5000000000008606 4.999999999998967 -3.4999999999999996 1.2246064000000001e-016 2.1073590250144e-029 2 F 0 F 1 #
+coedge $-1 $161 $54 $114 $162 forward $56 $-1 #
+coedge $-1 $55 $163 $164 $165 reversed $56 $-1 #
+edge $166 $167 $58 $55 $168 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $56 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+face $169 $153 $56 $5 $-1 $170 forward single #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $57 $35 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 149 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $58 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 142 #
+point $-1 -9.5000000000008598 4.9999999999981073 -3.4999999999999991 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $59 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 144 #
+point $-1 -4.5000000000008606 4.999999999998967 -3.4999999999999996 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $62 $19 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 246 #
+render-rbase-attrib $-1 $171 $63 $27 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $172 $64 $40 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+fmesh-eye-attrib $-1 $173 $-1 $65 #
+face $174 $100 $175 $5 $-1 $176 reversed single #
+loop $177 $-1 $178 $65 #
+plane-surface $-1 1.7000000000005162 -2.9999999999999654 -3.7000000000000002 -1.7208459999999999e-013 1 0 -1 -1.7208459999999999e-013 6.1230320000000003e-017 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $66 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+coedge $-1 $179 $180 $96 $162 reversed $66 $-1 #
+coedge $-1 $181 $69 $182 $183 forward $41 $-1 #
+coedge $-1 $69 $181 $179 $184 reversed $41 $-1 #
+edge $185 $186 $119 $70 $187 forward #
+ptlist-eye-attrib $-1 $188 $-1 $71 #
+vertex $189 $184 $190 #
+straight-curve $-1 -4.5000000000008606 4.999999999998967 -3.4999999999999996 2.0000000000003442 -1.9999999999996558 -1.2246064000000001e-016 F 0 F 1 #
+coedge $-1 $191 $192 $72 $122 forward $193 $-1 #
+edge $194 $133 $127 $72 $195 forward #
+coedge $-1 $196 $73 $78 $137 forward $125 $-1 #
+coedge $-1 $73 $197 $191 $198 reversed $125 $-1 #
+loop $199 $-1 $200 $201 #
+ptlist-eye-attrib $-1 $202 $-1 $74 #
+vertex $203 $74 $204 #
+straight-curve $-1 -0.50000000000085976 4.9999999999996554 7.5 -3.0615160000000001e-016 -5.2683975625360004e-029 -5 F 0 F 1 #
+coedge $-1 $205 $75 $192 $206 forward $131 $-1 #
+coedge $-1 $75 $207 $77 $136 reversed $131 $-1 #
+loop $208 $-1 $130 $209 #
+ptlist-eye-attrib $-1 $210 $-1 $76 #
+vertex $211 $76 $212 #
+straight-curve $-1 1.49999999999914 5 2.5 3.0615160000000001e-016 5.2683975625360004e-029 5 F 0 F 1 #
+coedge $-1 $78 $77 $181 $213 forward $79 $-1 #
+edge $214 $81 $215 $77 $216 forward #
+edge $217 $82 $218 $123 $219 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $79 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+face $220 $209 $79 $5 $-1 $221 reversed single #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $80 $48 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 189 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $81 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 182 #
+point $-1 1.49999999999914 5 2.5 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $82 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 184 #
+point $-1 -0.5000000000008602 4.9999999999996554 2.5 #
+coedge $-1 $222 $84 $87 $151 reversed $147 $-1 #
+coedge $-1 $84 $223 $92 $157 reversed $147 $-1 #
+loop $224 $-1 $146 $225 #
+ptlist-eye-attrib $-1 $226 $-1 $85 #
+straight-curve $-1 -4.5000000000008606 4.999999999998967 -1.4999999999999996 -5 -8.60423e-013 3.0615160000000001e-016 F 0 F 1 #
+coedge $-1 $87 $86 $227 $228 reversed $88 $-1 #
+edge $229 $230 $90 $87 $231 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $88 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+face $232 $225 $88 $5 $-1 $233 reversed single #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $89 $51 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 157 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $90 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 152 #
+point $-1 -9.5000000000008598 4.9999999999981073 -1.4999999999999991 #
+edge $234 $94 $186 $92 $235 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $93 $53 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 171 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $94 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 160 #
+point $-1 -4.5000000000008606 4.999999999998967 -1.4999999999999996 #
+coedge $-1 $236 $96 $237 $238 forward $56 $-1 #
+edge $239 $119 $240 $114 $241 forward #
+coedge $-1 $97 $236 $242 $243 forward $56 $-1 #
+coedge $-1 $244 $227 $97 $165 forward $245 $-1 #
+edge $246 $167 $247 $97 $248 forward #
+ptlist-eye-attrib $-1 $249 $-1 $98 #
+vertex $250 $228 $251 #
+straight-curve $-1 -11.500000000000517 2.9999999999977627 -3.4999999999999991 1.9999999999996558 2.0000000000003442 -1.2246064000000001e-016 F 0 F 1 #
+fmesh-eye-attrib $-1 $252 $-1 $100 #
+plane-surface $-1 -11.950000000000946 5.4999999999976854 -3.4999999999999991 -6.1230320000000003e-017 -1.0536795125072e-029 -1 1 1.7208459999999999e-013 -6.1230320000000003e-017 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $107 $27 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 279 #
+render-rbase-attrib $-1 $253 $108 $40 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $254 $109 $65 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+fmesh-eye-attrib $-1 $255 $-1 $110 #
+loop $256 $-1 $257 $110 #
+plane-surface $-1 -2.3999999999995008 -2.9000000000006709 -3.5999999999999996 -0.70710678118666925 0.70710678118642589 4.329637448622229e-017 6.1230320000000003e-017 1.0536795125072e-029 1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $111 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+coedge $-1 $258 $259 $180 $260 reversed $111 $-1 #
+coedge $-1 $261 $114 $116 $184 forward $66 $-1 #
+coedge $-1 $114 $261 $178 $260 forward $66 $-1 #
+coedge $-1 $116 $115 $135 $213 reversed $41 $-1 #
+coedge $-1 $262 $263 $115 $183 reversed $264 $-1 #
+edge $265 $186 $218 $115 $266 forward #
+edge $267 $119 $215 $116 $268 forward #
+ptlist-eye-attrib $-1 $269 $-1 $117 #
+vertex $270 $183 $271 #
+straight-curve $-1 -2.500000000000516 2.9999999999993117 -1.4999999999999996 -1.2246064000000001e-016 -2.1073590250144e-029 -2 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $118 $71 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 227 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $119 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 222 #
+point $-1 -2.500000000000516 2.9999999999993117 -3.4999999999999996 #
+coedge $-1 $272 $121 $124 $198 forward $193 $-1 #
+coedge $-1 $121 $272 $129 $206 reversed $193 $-1 #
+loop $273 $-1 $191 $274 #
+ptlist-eye-attrib $-1 $275 $-1 $122 #
+straight-curve $-1 1.4999999999991402 5 7.5 -2 -3.4416919999999998e-013 1.2246064000000001e-016 F 0 F 1 #
+coedge $-1 $200 $123 $263 $276 forward $125 $-1 #
+coedge $-1 $124 $277 $278 $279 reversed $125 $-1 #
+edge $280 $127 $281 $124 $282 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $125 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+coedge $-1 $283 $196 $284 $285 forward $125 $-1 #
+face $286 $139 $125 $5 $-1 $287 forward single #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $126 $74 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 197 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $127 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 192 #
+point $-1 -0.50000000000085976 4.9999999999996554 7.5 #
+coedge $-1 $288 $129 $289 $290 forward $131 $-1 #
+edge $291 $133 $292 $129 $293 forward #
+coedge $-1 $130 $294 $261 $295 reversed $131 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $131 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+face $296 $297 $131 $5 $-1 $298 forward single #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $132 $76 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 211 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $133 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 200 #
+point $-1 1.4999999999991402 5 7.5 #
+edge $299 $215 $218 $181 $300 forward #
+ptlist-eye-attrib $-1 $301 $-1 $136 #
+vertex $302 $184 $303 #
+straight-curve $-1 1.49999999999914 5 2.5 3.4404673936000004e-013 -2 -2 F 0 F 1 #
+ptlist-eye-attrib $-1 $304 $-1 $137 #
+vertex $305 $183 $306 #
+straight-curve $-1 -0.5000000000008602 4.9999999999996554 2.5 3.4404673936000004e-013 -2 -2 F 0 F 1 #
+fmesh-eye-attrib $-1 $307 $-1 $139 #
+plane-surface $-1 -0.60000000000087717 5.0999999999996382 2.5999999999999996 1.2172548397226078e-013 -0.70710678118654757 0.70710678118654757 1 1.7208459999999999e-013 -6.1230320000000003e-017 forward_v I I I I #
+coedge $-1 $308 $145 $309 $310 forward $147 $-1 #
+coedge $-1 $146 $311 $262 $312 reversed $147 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $147 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+face $313 $314 $147 $5 $-1 $315 forward single #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $148 $85 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 165 #
+coedge $-1 $164 $309 $150 $228 forward $245 $-1 #
+edge $316 $230 $167 $150 $317 forward #
+ptlist-eye-attrib $-1 $318 $-1 $151 #
+vertex $319 $228 $320 #
+straight-curve $-1 -11.500000000000517 2.9999999999977627 -1.4999999999999991 1.9999999999996558 2.0000000000003442 -1.2246064000000001e-016 F 0 F 1 #
+fmesh-eye-attrib $-1 $321 $-1 $153 #
+plane-surface $-1 -11.600000000000499 2.8999999999977457 -3.5999999999999992 0.70710678118666925 -0.70710678118642589 -4.329637448622229e-017 -6.1230320000000003e-017 -1.0536795125072e-029 -1 forward_v I I I I #
+ptlist-eye-attrib $-1 $322 $-1 $157 #
+straight-curve $-1 -4.5000000000008606 4.999999999998967 -1.4999999999999996 2.0000000000003442 -1.9999999999996558 -1.2246064000000001e-016 F 0 F 1 #
+coedge $-1 $163 $161 $323 $324 reversed $56 $-1 #
+coedge $-1 $325 $326 $161 $238 reversed $175 $-1 #
+edge $327 $240 $328 $237 $329 forward #
+ptlist-eye-attrib $-1 $330 $-1 $162 #
+vertex $331 $238 $332 #
+straight-curve $-1 -2.500000000000516 2.9999999999993117 -3.4999999999999996 1.0325075999999998e-012 -6 0 F 0 F 1 #
+coedge $-1 $333 $334 $163 $243 reversed $335 $-1 #
+edge $336 $337 $247 $163 $338 forward #
+coedge $-1 $309 $164 $334 $339 reversed $245 $-1 #
+loop $340 $-1 $309 $341 #
+ptlist-eye-attrib $-1 $342 $-1 $165 #
+vertex $343 $165 $344 #
+straight-curve $-1 -11.500000000000517 2.9999999999977627 -3.4999999999999991 1.0325075999999998e-012 -6 0 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $166 $98 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 410 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $167 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 399 #
+point $-1 -11.500000000000517 2.9999999999977627 -3.4999999999999991 #
+rgb_color-st-attrib $-1 $345 $169 $100 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $172 $40 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 311 #
+render-rbase-attrib $-1 $346 $173 $65 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $347 $174 $110 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $175 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+coedge $-1 $326 $325 $311 $348 forward $175 $-1 #
+coedge $-1 $349 $178 $350 $351 forward $111 $-1 #
+coedge $-1 $178 $349 $325 $352 forward $111 $-1 #
+edge $353 $354 $240 $180 $355 forward #
+coedge $-1 $180 $179 $207 $295 forward $66 $-1 #
+coedge $-1 $356 $182 $223 $312 forward $264 $-1 #
+coedge $-1 $182 $356 $196 $276 reversed $264 $-1 #
+loop $357 $-1 $263 $314 #
+ptlist-eye-attrib $-1 $358 $-1 $183 #
+ellipse-curve $-1 -2.500000000000516 2.9999999999993117 0.5 1.7208459999999999e-013 -1 0 -1.2246064000000001e-016 -2.1073590250144e-029 -2 1 F 0 F 1.5707963267948966 #
+ptlist-eye-attrib $-1 $359 $-1 $184 #
+ellipse-curve $-1 -2.500000000000516 2.9999999999993117 0.5 1.7208459999999999e-013 -1 0 -2.4492128000000001e-016 -4.2147180500288e-029 -4 1 F 0 F 1.5707963267948966 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $185 $117 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 242 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $186 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 231 #
+point $-1 -2.500000000000516 2.9999999999993117 -1.4999999999999996 #
+coedge $-1 $192 $191 $360 $361 reversed $193 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $193 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+face $362 $-1 $193 $5 $-1 $363 reversed single #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $194 $122 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 205 #
+edge $364 $218 $365 $263 $366 forward #
+coedge $-1 $197 $283 $367 $368 reversed $125 $-1 #
+coedge $-1 $369 $360 $197 $279 forward $370 $-1 #
+edge $371 $281 $372 $197 $373 forward #
+ptlist-eye-attrib $-1 $374 $-1 $198 #
+vertex $375 $361 $376 #
+straight-curve $-1 -0.50000000000085976 4.9999999999996554 7.5 3.4429166063999997e-013 -2 2 F 0 F 1 #
+coedge $-1 $277 $200 $377 $378 reversed $125 $-1 #
+coedge $-1 $350 $379 $200 $285 reversed $380 $-1 #
+edge $381 $365 $382 $200 $383 forward #
+fmesh-eye-attrib $-1 $384 $-1 $201 #
+plane-surface $-1 -0.50000000000094547 5.4999999999996554 9.9499999999999993 -1 -1.7208459999999999e-013 6.1230320000000003e-017 1.7208459999999999e-013 -1 0 forward_v I I I I #
+coedge $-1 $385 $205 $386 $387 forward $131 $-1 #
+coedge $-1 $360 $369 $205 $290 reversed $370 $-1 #
+edge $388 $292 $389 $205 $390 forward #
+ptlist-eye-attrib $-1 $391 $-1 $206 #
+vertex $392 $361 $393 #
+straight-curve $-1 1.4999999999991402 5 7.5 3.4429166063999997e-013 -2 2 F 0 F 1 #
+coedge $-1 $207 $385 $394 $395 reversed $131 $-1 #
+edge $396 $215 $354 $261 $397 forward #
+fmesh-eye-attrib $-1 $398 $-1 $209 #
+face $399 $400 $380 $5 $-1 $401 reversed single #
+plane-surface $-1 1.4999999999990536 5.5 0.049999999999999822 1 1.7208459999999999e-013 -6.1230320000000003e-017 -6.1230320000000003e-017 -1.0536795125072e-029 -1 forward_v I I I I #
+ptlist-eye-attrib $-1 $402 $-1 $213 #
+straight-curve $-1 1.499999999999484 3 0.5 -2 -3.4416919999999998e-013 1.2246064000000001e-016 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $214 $136 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 561 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $215 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 263 #
+point $-1 1.499999999999484 3 0.5 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $217 $137 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 546 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $218 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 254 #
+point $-1 -0.50000000000051603 2.9999999999996558 0.5 #
+rgb_color-st-attrib $-1 $403 $220 $139 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+coedge $-1 $404 $222 $405 $406 reversed $147 $-1 #
+coedge $-1 $227 $244 $222 $310 reversed $245 $-1 #
+edge $407 $230 $408 $222 $409 forward #
+coedge $-1 $223 $404 $257 $348 reversed $147 $-1 #
+edge $410 $186 $411 $223 $412 forward #
+fmesh-eye-attrib $-1 $413 $-1 $225 #
+face $414 $201 $264 $5 $-1 $415 reversed single #
+plane-surface $-1 -2.0500000000009462 5.4999999999993889 -1.5 6.1230320000000003e-017 1.0536795125072e-029 1 1.7208459999999999e-013 -1 0 forward_v I I I I #
+ptlist-eye-attrib $-1 $416 $-1 $228 #
+straight-curve $-1 -11.500000000000517 2.9999999999977627 -1.4999999999999991 -1.2246064000000001e-016 -2.1073590250144e-029 -2 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $229 $151 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 435 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $230 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 424 #
+point $-1 -11.500000000000517 2.9999999999977627 -1.4999999999999991 #
+rgb_color-st-attrib $-1 $417 $232 $153 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $234 $157 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 236 #
+coedge $-1 $418 $419 $236 $324 forward $420 $-1 #
+edge $421 $337 $328 $236 $422 forward #
+coedge $-1 $257 $237 $259 $352 reversed $175 $-1 #
+coedge $-1 $237 $257 $418 $423 reversed $175 $-1 #
+ptlist-eye-attrib $-1 $424 $-1 $238 #
+vertex $425 $238 $426 #
+straight-curve $-1 -2.4999999999994835 -3.0000000000006883 -3.4999999999999996 -1.9999999999996558 -2.0000000000003442 1.2246064000000001e-016 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $239 $162 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 291 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $240 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 286 #
+point $-1 -2.4999999999994835 -3.0000000000006883 -3.4999999999999996 #
+coedge $-1 $405 $242 $419 $427 forward $335 $-1 #
+coedge $-1 $242 $405 $244 $339 forward $335 $-1 #
+loop $428 $-1 $405 $429 #
+ptlist-eye-attrib $-1 $430 $-1 $243 #
+vertex $431 $324 $432 #
+straight-curve $-1 -9.4999999999991402 -5.0000000000018927 -3.4999999999999991 -2.0000000000003442 1.9999999999996558 1.2246064000000001e-016 F 0 F 1 #
+edge $433 $408 $247 $334 $434 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $245 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+face $435 $436 $245 $5 $-1 $437 forward single #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $246 $165 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 404 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $247 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 391 #
+point $-1 -11.499999999999483 -3.0000000000022373 -3.4999999999999991 #
+render-rbase-attrib $-1 $438 $252 $100 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $254 $65 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 343 #
+render-rbase-attrib $-1 $439 $255 $110 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+edge $440 $411 $441 $257 $442 forward #
+coedge $-1 $259 $258 $356 $443 reversed $111 $-1 #
+coedge $-1 $394 $284 $258 $351 reversed $380 $-1 #
+edge $444 $354 $365 $258 $445 forward #
+edge $446 $411 $240 $259 $447 forward #
+ptlist-eye-attrib $-1 $448 $-1 $260 #
+vertex $449 $351 $450 #
+ellipse-curve $-1 -2.4999999999994831 -3.0000000000006883 0.5 -1.7208459999999999e-013 1 0 4 6.8833839999999996e-013 -2.4492128000000001e-016 1 F 0 F 1.5707963267948966 #
+coedge $-1 $263 $262 $349 $443 forward $264 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $264 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $265 $183 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 260 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $267 $184 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 275 #
+coedge $-1 $278 $289 $272 $361 forward $370 $-1 #
+edge $451 $292 $281 $360 $452 forward #
+fmesh-eye-attrib $-1 $453 $-1 $274 #
+plane-surface $-1 1.599999999999123 5.1000000000000183 7.4000000000000004 1.2163889122328836e-013 -0.70710678118654757 -0.70710678118654757 1 1.7208459999999999e-013 -6.1230320000000003e-017 forward_v I I I I #
+ptlist-eye-attrib $-1 $454 $-1 $276 #
+vertex $455 $351 $456 #
+straight-curve $-1 -0.50000000000051603 2.9999999999996558 0.5 1.0325075999999998e-012 -6 0 F 0 F 1 #
+coedge $-1 $457 $458 $277 $368 forward $459 $-1 #
+edge $460 $372 $461 $277 $462 forward #
+coedge $-1 $289 $278 $458 $463 reversed $370 $-1 #
+loop $464 $-1 $278 $465 #
+ptlist-eye-attrib $-1 $466 $-1 $279 #
+vertex $467 $279 $468 #
+straight-curve $-1 -0.50000000000051559 2.9999999999996558 9.5 1.0325075999999998e-012 -6 0 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $280 $198 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 539 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $281 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 528 #
+point $-1 -0.50000000000051559 2.9999999999996558 9.5 #
+coedge $-1 $469 $470 $283 $378 forward $471 $-1 #
+edge $472 $461 $382 $283 $473 forward #
+coedge $-1 $284 $394 $469 $474 forward $380 $-1 #
+loop $475 $-1 $284 $297 #
+ptlist-eye-attrib $-1 $476 $-1 $285 #
+vertex $477 $474 $478 #
+straight-curve $-1 -0.49999999999948352 -3.0000000000003442 0.5 3.4429166063999997e-013 -2 2 F 0 F 1 #
+rgb_color-st-attrib $-1 $479 $286 $201 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+coedge $-1 $294 $288 $480 $481 reversed $131 $-1 #
+coedge $-1 $458 $457 $288 $387 reversed $459 $-1 #
+edge $482 $389 $483 $288 $484 forward #
+ptlist-eye-attrib $-1 $485 $-1 $290 #
+vertex $486 $387 $487 #
+straight-curve $-1 1.4999999999994846 3 9.5 1.0325075999999998e-012 -6 0 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $291 $206 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 582 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $292 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 577 #
+point $-1 1.4999999999994846 3 9.5 #
+coedge $-1 $379 $350 $294 $395 forward $380 $-1 #
+edge $488 $354 $489 $294 $490 forward #
+ptlist-eye-attrib $-1 $491 $-1 $295 #
+straight-curve $-1 1.499999999999484 3 0.5 1.0325075999999998e-012 -6 0 F 0 F 1 #
+rgb_color-st-attrib $-1 $492 $296 $209 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+fmesh-eye-attrib $-1 $493 $-1 $297 #
+face $494 $495 $420 $5 $-1 $496 forward single #
+plane-surface $-1 -0.59999999999950049 -2.9000000000003614 0.39999999999999991 -1.2163889122328836e-013 0.70710678118654757 0.70710678118654757 -1 -1.7208459999999999e-013 6.1230320000000003e-017 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $299 $213 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 268 #
+render-rbase-attrib $-1 $497 $307 $139 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+coedge $-1 $311 $308 $498 $499 reversed $147 $-1 #
+coedge $-1 $334 $333 $308 $406 forward $335 $-1 #
+edge $500 $501 $408 $308 $502 forward #
+ptlist-eye-attrib $-1 $503 $-1 $310 #
+vertex $504 $310 $505 #
+straight-curve $-1 -11.500000000000517 2.9999999999977627 -1.4999999999999991 1.0325075999999998e-012 -6 0 F 0 F 1 #
+ptlist-eye-attrib $-1 $506 $-1 $312 #
+vertex $507 $312 $508 #
+straight-curve $-1 -2.500000000000516 2.9999999999993117 -1.4999999999999996 1.0325075999999998e-012 -6 0 F 0 F 1 #
+rgb_color-st-attrib $-1 $509 $313 $225 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+fmesh-eye-attrib $-1 $510 $-1 $314 #
+cone-surface $-1 -2.5000000000008606 4.9999999999993117 0.5 -1.7208459999999999e-013 1 0 2 3.4416919999999998e-013 -1.2246064000000001e-016 1 I I -0 1 2 reversed I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $316 $228 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 429 #
+render-rbase-attrib $-1 $511 $321 $153 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+coedge $-1 $498 $323 $326 $423 forward $420 $-1 #
+coedge $-1 $323 $498 $333 $427 reversed $420 $-1 #
+loop $512 $-1 $498 $400 #
+ptlist-eye-attrib $-1 $513 $-1 $324 #
+straight-curve $-1 -9.4999999999991402 -5.0000000000018927 -3.4999999999999991 5 8.60423e-013 -3.0615160000000001e-016 F 0 F 1 #
+edge $514 $328 $441 $326 $515 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $327 $238 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 369 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $328 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 358 #
+point $-1 -4.4999999999991394 -5.000000000001033 -3.4999999999999996 #
+edge $516 $337 $501 $419 $517 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $335 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+face $518 $341 $335 $5 $-1 $519 reversed single #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $336 $243 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 396 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $337 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 383 #
+point $-1 -9.4999999999991402 -5.0000000000018927 -3.4999999999999991 #
+ptlist-eye-attrib $-1 $520 $-1 $339 #
+straight-curve $-1 -11.499999999999483 -3.0000000000022373 -1.4999999999999991 -1.2246064000000001e-016 -2.1073590250144e-029 -2 F 0 F 1 #
+fmesh-eye-attrib $-1 $521 $-1 $341 #
+face $522 $465 $459 $5 $-1 $523 reversed single #
+plane-surface $-1 -11.500000000000568 3.2999999999977625 -1.399999999999999 -1 -1.7208459999999999e-013 6.1230320000000003e-017 1.7208459999999999e-013 -1 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $345 $100 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 416 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $347 $110 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 374 #
+ptlist-eye-attrib $-1 $524 $-1 $348 #
+vertex $525 $499 $526 #
+straight-curve $-1 -2.4999999999994835 -3.0000000000006883 -1.4999999999999996 -1.9999999999996558 -2.0000000000003442 1.2246064000000001e-016 F 0 F 1 #
+edge $527 $411 $365 $349 $528 forward #
+ptlist-eye-attrib $-1 $529 $-1 $351 #
+straight-curve $-1 1.5000000000005165 -3 0.5 -2 -3.4416919999999998e-013 1.2246064000000001e-016 F 0 F 1 #
+ptlist-eye-attrib $-1 $530 $-1 $352 #
+straight-curve $-1 -2.4999999999994835 -3.0000000000006883 -1.4999999999999996 -1.2246064000000001e-016 -2.1073590250144e-029 -2 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $353 $260 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 307 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $354 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 295 #
+point $-1 1.5000000000005165 -3 0.5 #
+ptlist-eye-attrib $-1 $531 $-1 $361 #
+straight-curve $-1 1.4999999999994846 3 9.5 -2 -3.4416919999999998e-013 1.2246064000000001e-016 F 0 F 1 #
+rgb_color-st-attrib $-1 $532 $362 $274 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $364 $276 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 490 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $365 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 319 #
+point $-1 -0.49999999999948352 -3.0000000000003442 0.5 #
+coedge $-1 $386 $367 $470 $533 reversed $459 $-1 #
+coedge $-1 $367 $386 $369 $463 forward $459 $-1 #
+loop $534 $-1 $386 $436 #
+ptlist-eye-attrib $-1 $535 $-1 $368 #
+vertex $536 $368 $537 #
+straight-curve $-1 -0.49999999999948286 -3.0000000000003442 9.5 3.4404673936000004e-013 -2 -2 F 0 F 1 #
+edge $538 $389 $372 $458 $539 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $370 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+face $540 $274 $370 $5 $-1 $541 forward single #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $371 $279 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 533 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $372 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 520 #
+point $-1 -0.49999999999948286 -3.0000000000003442 9.5 #
+coedge $-1 $480 $377 $379 $474 reversed $471 $-1 #
+coedge $-1 $377 $480 $457 $533 forward $471 $-1 #
+loop $542 $-1 $470 $495 #
+ptlist-eye-attrib $-1 $543 $-1 $378 #
+straight-curve $-1 -0.49999999999913891 -5.0000000000003446 7.5 -3.0615160000000001e-016 -5.2683975625360004e-029 -5 F 0 F 1 #
+edge $544 $489 $382 $379 $545 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $380 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $381 $285 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 509 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $382 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 504 #
+point $-1 -0.49999999999913913 -5.0000000000003446 2.5 #
+render-rbase-attrib $-1 $546 $384 $201 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+coedge $-1 $470 $469 $385 $481 forward $471 $-1 #
+edge $547 $489 $483 $385 $548 forward #
+ptlist-eye-attrib $-1 $549 $-1 $387 #
+vertex $550 $387 $551 #
+straight-curve $-1 1.5000000000005171 -3 9.5 3.4404673936000004e-013 -2 -2 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $388 $290 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 590 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $389 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 585 #
+point $-1 1.5000000000005171 -3 9.5 #
+ptlist-eye-attrib $-1 $552 $-1 $395 #
+vertex $553 $395 $554 #
+straight-curve $-1 1.5000000000005165 -3 0.5 3.4429166063999997e-013 -2 2 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $396 $295 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 300 #
+render-rbase-attrib $-1 $555 $398 $209 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $556 $399 $297 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+fmesh-eye-attrib $-1 $557 $-1 $400 #
+face $558 $429 $471 $5 $-1 $559 forward single #
+plane-surface $-1 -9.7499999999991402 -5.0000000000019362 -3.5999999999999992 1.7208459999999999e-013 -1 0 6.1230320000000003e-017 1.0536795125072e-029 1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $403 $139 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 568 #
+coedge $-1 $419 $418 $404 $499 forward $420 $-1 #
+edge $560 $441 $501 $404 $561 forward #
+ptlist-eye-attrib $-1 $562 $-1 $406 #
+vertex $563 $499 $564 #
+straight-curve $-1 -9.4999999999991402 -5.0000000000018927 -1.4999999999999991 -2.0000000000003442 1.9999999999996558 1.2246064000000001e-016 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $407 $310 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 455 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $408 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 450 #
+point $-1 -11.499999999999483 -3.0000000000022373 -1.4999999999999991 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $410 $312 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 476 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $411 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 327 #
+point $-1 -2.4999999999994835 -3.0000000000006883 -1.4999999999999996 #
+render-rbase-attrib $-1 $565 $413 $225 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $566 $414 $314 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $417 $153 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 440 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $420 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $421 $324 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 388 #
+ptlist-eye-attrib $-1 $567 $-1 $423 #
+straight-curve $-1 -4.4999999999991394 -5.000000000001033 -3.4999999999999996 1.2246064000000001e-016 2.1073590250144e-029 2 F 0 F 1 #
+ptlist-eye-attrib $-1 $568 $-1 $427 #
+straight-curve $-1 -9.4999999999991402 -5.0000000000018927 -3.4999999999999991 1.2246064000000001e-016 2.1073590250144e-029 2 F 0 F 1 #
+fmesh-eye-attrib $-1 $569 $-1 $429 #
+plane-surface $-1 -9.3999999999991228 -5.1000000000018773 -3.5999999999999992 0.70710678118642589 0.70710678118666925 -4.329637448622229e-017 -0.70710678118666925 0.70710678118642589 4.329637448622229e-017 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $433 $339 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 679 #
+rgb_color-st-attrib $-1 $570 $435 $341 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+fmesh-eye-attrib $-1 $571 $-1 $436 #
+plane-surface $-1 1.6000000000004999 -2.8999999999999826 9.5999999999999996 -1.2172548397226078e-013 0.70710678118654757 -0.70710678118654757 -1.2163889122328836e-013 0.70710678118654757 0.70710678118654757 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $440 $348 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 355 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $441 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 350 #
+point $-1 -4.4999999999991394 -5.000000000001033 -1.4999999999999996 #
+ptlist-eye-attrib $-1 $572 $-1 $443 #
+ellipse-curve $-1 -2.4999999999994831 -3.0000000000006883 0.5 1.7208459999999999e-013 -1 0 -1.2246064000000001e-016 -2.1073590250144e-029 -2 1 F 0 F 1.5707963267948966 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $444 $351 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 324 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $446 $352 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 339 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $451 $361 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 727 #
+render-rbase-attrib $-1 $573 $453 $274 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+edge $574 $483 $461 $470 $575 forward #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $459 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $460 $368 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 525 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $461 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 512 #
+point $-1 -0.49999999999913891 -5.0000000000003446 7.5 #
+ptlist-eye-attrib $-1 $576 $-1 $463 #
+straight-curve $-1 1.5000000000005171 -3 9.5 -2 -3.4416919999999998e-013 1.2246064000000001e-016 F 0 F 1 #
+fmesh-eye-attrib $-1 $577 $-1 $465 #
+plane-surface $-1 1.599999999999433 3.3000000000000171 9.5 6.1230320000000003e-017 1.0536795125072e-029 1 1.7208459999999999e-013 -1 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $471 copy keep_kept ignore 15 ATTRIB_XACIS_ID 8 28018354 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $472 $378 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 517 #
+ptlist-eye-attrib $-1 $578 $-1 $474 #
+straight-curve $-1 1.5000000000008609 -5 2.5 -2 -3.4416919999999998e-013 1.2246064000000001e-016 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $479 $201 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 551 #
+ptlist-eye-attrib $-1 $579 $-1 $481 #
+straight-curve $-1 1.5000000000008609 -5 2.5 3.0615160000000001e-016 5.2683975625360004e-029 5 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $482 $387 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 598 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $483 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 593 #
+point $-1 1.5000000000008611 -5 7.5 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $488 $395 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 612 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $489 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 601 #
+point $-1 1.5000000000008609 -5 2.5 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $492 $209 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 617 #
+render-rbase-attrib $-1 $580 $493 $297 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $581 $494 $400 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+fmesh-eye-attrib $-1 $582 $-1 $495 #
+plane-surface $-1 -0.599999999999139 -5.0000000000003615 2.25 1.7208459999999999e-013 -1 0 6.1230320000000003e-017 1.0536795125072e-029 1 forward_v I I I I #
+ptlist-eye-attrib $-1 $583 $-1 $499 #
+straight-curve $-1 -4.4999999999991394 -5.000000000001033 -1.4999999999999996 -5 -8.60423e-013 3.0615160000000001e-016 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $500 $406 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 463 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $-1 $501 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 458 #
+point $-1 -9.4999999999991402 -5.0000000000018927 -1.4999999999999991 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $509 $225 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 480 #
+render-rbase-attrib $-1 $584 $510 $314 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $514 $423 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 363 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $516 $427 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 645 #
+rgb_color-st-attrib $-1 $585 $518 $429 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+render-rbase-attrib $-1 $586 $521 $341 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $587 $522 $436 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $527 $443 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 333 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $532 $274 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 743 #
+ptlist-eye-attrib $-1 $588 $-1 $533 #
+straight-curve $-1 1.5000000000008611 -5 7.5 -2 -3.4416919999999998e-013 1.2246064000000001e-016 F 0 F 1 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $538 $463 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 708 #
+rgb_color-st-attrib $-1 $589 $540 $465 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $544 $474 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 630 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $547 $481 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 606 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $556 $297 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 634 #
+render-rbase-attrib $-1 $590 $557 $400 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $591 $558 $495 0.50980392156862742 0.50980392156862742 0.58823529411764708 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $560 $499 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 469 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $566 $314 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 497 #
+render-rbase-attrib $-1 $592 $569 $429 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $570 $341 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 697 #
+render-rbase-attrib $-1 $593 $571 $436 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $574 $533 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 661 #
+render-rbase-attrib $-1 $594 $577 $465 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $581 $400 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 651 #
+render-rbase-attrib $-1 $595 $582 $495 $7 $-1 0 2 0 -1 0 1 0 0 -0 0 1 1.5 0 -3.5 1 rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $585 $429 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 685 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $587 $436 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 714 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $589 $465 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 731 #
+string_attrib-name_attrib-gen-attrib $-1 $-1 $591 $495 copy keep_kept ignore 15 ATTRIB_XACIS_ID 3 668 #
+End-of-ACIS-data 

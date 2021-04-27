@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="1318599655" file="/Users/nickthomas/Documents/University/Year 5/FYP/9 - Code/Pass-Fail-App/Pass_Fail_App.prj" location="/Users/nickthomas/Documents/University/Year 5/FYP/9 - Code/Pass-Fail-App" name="Pass_Fail_App" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="1773919275" file="/Users/nickthomas/Documents/University/Year 5/FYP/Pass-Fail-Project/Code/Pass_Fail_App.prj" location="/Users/nickthomas/Documents/University/Year 5/FYP/Pass-Fail-Project/Code" name="Pass_Fail_App" target="target.mlapps" target-name="Package App">
     <param.appname>Pass_Fail_App</param.appname>
     <param.authnamewatermark>Nick Thomas</param.authnamewatermark>
     <param.email />
@@ -14,7 +14,7 @@
     <param.products.id />
     <param.products.version />
     <param.platforms />
-    <param.output>/Users/nickthomas/Desktop</param.output>
+    <param.output>${PROJECT_ROOT}</param.output>
     <param.guid>af5b3e44-ce94-4ebe-b7b7-2b41fbb95247</param.guid>
     <unset>
       <param.email />
@@ -29,6 +29,7 @@
       <param.products.id />
       <param.products.version />
       <param.platforms />
+      <param.output />
     </unset>
     <fileset.main>
       <file>${PROJECT_ROOT}/Pass_Fail_App.mlapp</file>
@@ -52,7 +53,7 @@
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="/Users/nickthomas" name="Desktop" optional="false">/Users/nickthomas/Desktop</file>
+      <file location="/Users/nickthomas/Documents/University/Year 5/FYP/Pass-Fail-Project" name="Code" optional="false">/Users/nickthomas/Documents/University/Year 5/FYP/Pass-Fail-Project/Code</file>
     </build-deliverables>
     <workflow />
     <matlab>
